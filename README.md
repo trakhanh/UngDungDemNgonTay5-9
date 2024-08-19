@@ -1,6 +1,6 @@
 # UngDungDemNgonTay5-9 Segmentation
 * Link Data và Model: https://drive.google.com/drive/folders/1UO1BOZJ_ByxBrkoDjhyWr7j-tNiSiaJe?usp=drive_link
-* Link Demo: https://drive.google.com/file/d/1r39jBN-_0IaxrsXWqEu1aLJ23oI1mR3A/view?usp=sharing
+* Link video demo: https://drive.google.com/file/d/1r39jBN-_0IaxrsXWqEu1aLJ23oI1mR3A/view?usp=sharing
 # Hướng dẫn cài đặt và sử dụng
 1. Mở Visual Code xem trong file app.py xem đường dẫn của mô hình đã tải và chỉnh lại cho đúng với đường dẫn máy của mình.
 2. Cài các thư viện cần thiết Streamlit,Tensorflow,PIL,Numpy,Matplotlib.
